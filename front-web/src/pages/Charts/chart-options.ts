@@ -3,6 +3,7 @@ export const pieOptions = {
       background: "transparent",
       foreColor: "red",
     },
+    
     colors: ["#a8dadc", "#ed7947", "#00D4FF", "#ffd6a5"],
     legend: {
       show: false,
